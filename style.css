@@ -1,0 +1,36 @@
+#nome {
+    display: none;
+}
+
+#cognome {
+    display: none;
+}
+
+#colore {
+    display: none;
+}
+
+#eta {
+    display: none;
+}
+
+.bg {
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.passw {
+    display: flex;
+    height: 600px;
+    width: 600px;
+    background-image: linear-gradient(to bottom right, brown, yellow);
+    border-radius: 25%;
+    justify-content: center;
+    align-items: center;
+}
+
+#pass {
+    color: red;
+}
